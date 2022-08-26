@@ -1,13 +1,24 @@
-# Proje kurulum adımları
-    # Project setup
-    yarn install
-    # Compiles and hot-reloads for development
-    yarn serve 
-    # Compiles and minifies for production 
-    yarn build
-    # Lints and fixes files 
-    yarn lint
+# hepsiburada
 
-# Projede yapılacaklar
+## Project setup
+```
+yarn install
+```
 
- - [x] navbar yapımı 
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
